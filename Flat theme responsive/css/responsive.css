@@ -1,0 +1,152 @@
+/* 
+============================ START =============================
+
+*/
+   
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+.second_slide h1 {
+    line-height: 42px;
+}
+.btn-send {
+    height: 50px;
+    width: 15%;
+}
+.first_slide h1 {
+        margin-left: 40px;
+        line-height: 35px;
+            margin-top: 65px;
+}
+p {
+    margin: 0 40px 10px;
+}
+.third_slide h1 {
+    margin-top: 18px;
+    line-height: 42px;
+    margin-left: 40px;
+}
+.btn-send-2 {
+    margin-left: 40px;
+}
+
+.btn-group, .btn-group-vertical {
+    margin-bottom: 20px;
+}
+
+
+}
+
+/* Wide Mobile Layout: 640px. */
+@media only screen and (min-width: 640px) and (max-width: 767px) { 
+.second_slide h1 {
+    font-size: 25px;
+}
+.second_slide p {
+    margin: 0px 150px;
+    margin-top: 8px;
+}
+.btn-send {
+    height: 50px;
+    width: 20%;
+}
+.btn-send-2 {
+    width: 20%;
+}
+.first_slide h1 {
+    margin-left: 40px;
+    line-height: 32px;
+}
+.first_slide p{
+	 margin-left: 40px;
+}
+.btn-group, .btn-group-vertical {
+    margin-bottom: 20px;
+}
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 640px) { 
+.btn-group, .btn-group-vertical {
+    margin-bottom: 20px;
+}
+.second_slide h1 {
+    padding: 15px 0px;
+    margin: 0px 50px;
+    font-size: 25px;
+}
+.second_slide p {
+    padding: 7px 0px;
+    margin: 0px 80px;
+    margin-top: 10px;
+}
+.btn-send {
+    width: 30%;
+}
+.btn-send-2 {
+    width: 30%;
+}
+.first_slide h1 {
+    margin-top: 45px;
+    line-height: 35px;
+}
+
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width:320px) { 
+ .second_slide h1 {
+    padding: 5px 0px;
+    margin: 0px 35px;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.second_slide p {
+    padding: 10px 0px;
+    margin: 0px 38px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.btn-send {
+    width: 45%;
+}
+.btn-send-2 {
+    width: 45%;
+}
+.first_slide h1 {
+    margin-top: 60px;
+    margin-bottom: 15px;
+    line-height: 30px;
+    font-size: 30px;
+}
+.btn-group, .btn-group-vertical {
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 14px;
+    margin-left: 5px;
+}
+.content i {
+    height:55px;
+    width:55px;
+    line-height:55px;
+}
+
+   
+}
+
+/* 
+============================ END =============================
+============================ END =============================
+
+*/
