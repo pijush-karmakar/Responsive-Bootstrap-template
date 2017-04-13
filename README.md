@@ -2,9 +2,8 @@
 
 It's my practice document ...
 
-#Flat theme responsive (multipage). 
-<h4>view webpage: </h4> https://pijush-karmakar.github.io/Responsive-Bootstrap-template/Flat%20theme%20responsive/
+<h4>Flat theme responsive (multipage).<h4> 
+<p>view webpage: https://pijush-karmakar.github.io/Responsive-Bootstrap-template/Flat%20theme%20responsive/ </p> 
 
-
-#Corlate OnePage responsive.
-<h4>view webpage: </h4> https://pijush-karmakar.github.io/Responsive-Bootstrap-template/Corlate%20OnePage%20responsive/
+<h4>Corlate OnePage responsive.<h4>
+<p>view webpage:  https://pijush-karmakar.github.io/Responsive-Bootstrap-template/Corlate%20OnePage%20responsive/</p> 
